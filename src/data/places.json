@@ -1,0 +1,202 @@
+[
+    {
+        "placeName": "Grand Canyon",
+        "country": "United States",
+        "countryCode": "US"
+    },
+    {
+        "placeName": "Eiffel Tower",
+        "country": "France",
+        "countryCode": "FR"
+    },
+    {
+        "placeName": "Great Wall",
+        "country": "China",
+        "countryCode": "CN"
+    },
+    {
+        "placeName": "Machu Picchu",
+        "country": "Peru",
+        "countryCode": "PE"
+    },
+    {
+        "placeName": "Colosseum",
+        "country": "Italy",
+        "countryCode": "IT"
+    },
+    {
+        "placeName": "Mount Fuji",
+        "country": "Japan",
+        "countryCode": "JP"
+    },
+    {
+        "placeName": "Sydney Opera House",
+        "country": "Australia",
+        "countryCode": "AU"
+    },
+    {
+        "placeName": "Christ the Redeemer",
+        "country": "Brazil",
+        "countryCode": "BR"
+    },
+    {
+        "placeName": "Pyramids of Giza",
+        "country": "Egypt",
+        "countryCode": "EG"
+    },
+    {
+        "placeName": "Taj Mahal",
+        "country": "India",
+        "countryCode": "IN"
+    },
+    {
+        "placeName": "Niagara Falls",
+        "country": "Canada",
+        "countryCode": "CA"
+    },
+    {
+        "placeName": "Santorini",
+        "country": "Greece",
+        "countryCode": "GR"
+    },
+    {
+        "placeName": "Petra",
+        "country": "Jordan",
+        "countryCode": "JO"
+    },
+    {
+        "placeName": "Banff National Park",
+        "country": "Canada",
+        "countryCode": "CA"
+    },
+    {
+        "placeName": "Serengeti",
+        "country": "Tanzania",
+        "countryCode": "TZ"
+    },
+    {
+        "placeName": "Angkor Wat",
+        "country": "Cambodia",
+        "countryCode": "KH"
+    },
+    {
+        "placeName": "Stonehenge",
+        "country": "United Kingdom",
+        "countryCode": "GB"
+    },
+    {
+        "placeName": "Mount Kilimanjaro",
+        "country": "Tanzania",
+        "countryCode": "TZ"
+    },
+    {
+        "placeName": "Galápagos Islands",
+        "country": "Ecuador",
+        "countryCode": "EC"
+    },
+    {
+        "placeName": "Victoria Falls",
+        "country": "Zimbabwe",
+        "countryCode": "ZW"
+    },
+    {
+        "placeName": "Statue of Liberty",
+        "country": "United States",
+        "countryCode": "US"
+    },
+    {
+        "placeName": "Tower of London",
+        "country": "United Kingdom",
+        "countryCode": "GB"
+    },
+    {
+        "placeName": "Mount Everest",
+        "country": "Nepal",
+        "countryCode": "NP"
+    },
+    {
+        "placeName": "Great Barrier Reef",
+        "country": "Australia",
+        "countryCode": "AU"
+    },
+    {
+        "placeName": "Table Mountain",
+        "country": "South Africa",
+        "countryCode": "ZA"
+    },
+    {
+        "placeName": "The Louvre",
+        "country": "France",
+        "countryCode": "FR"
+    },
+    {
+        "placeName": "Chichen Itza",
+        "country": "Mexico",
+        "countryCode": "MX"
+    },
+    {
+        "placeName": "Golden Gate Bridge",
+        "country": "United States",
+        "countryCode": "US"
+    },
+    {
+        "placeName": "Mount Etna",
+        "country": "Italy",
+        "countryCode": "IT"
+    },
+    {
+        "placeName": "Blue Lagoon",
+        "country": "Iceland",
+        "countryCode": "IS"
+    },
+    {
+        "placeName": "Sagrada Familia",
+        "country": "Spain",
+        "countryCode": "ES"
+    },
+    {
+        "placeName": "Big Ben",
+        "country": "United Kingdom",
+        "countryCode": "GB"
+    },
+    {
+        "placeName": "Alhambra",
+        "country": "Spain",
+        "countryCode": "ES"
+    },
+    {
+        "placeName": "Acropolis of Athens",
+        "country": "Greece",
+        "countryCode": "GR"
+    },
+    {
+        "placeName": "Bali",
+        "country": "Indonesia",
+        "countryCode": "ID"
+    },
+    {
+        "placeName": "Burj Khalifa",
+        "country": "United Arab Emirates",
+        "countryCode": "AE"
+    },
+    {
+        "placeName": "Red Square",
+        "country": "Russia",
+        "countryCode": "RU"
+    },
+    {
+        "placeName": "Great Sphinx",
+        "country": "Egypt",
+        "countryCode": "EG"
+    },
+    {
+        "placeName": "Uluru",
+        "country": "Australia",
+        "countryCode": "AU"
+    },
+    {
+        "placeName": "Lake Bled",
+        "country": "Slovenia",
+        "countryCode": "SI"
+    }
+]

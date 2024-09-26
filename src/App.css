@@ -1,0 +1,125 @@
+* {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+body {
+  padding: 1rem;
+}
+
+#search-box-with-label {
+  position: relative;
+  width: fit-content;
+  font-size: 16px;
+  color: rgb(33, 37, 41);
+
+  input {
+    border: 1px solid rgb(206, 212, 218);
+    height: 38px;
+    border-radius: 3px;
+    padding: 0rem 4rem 0rem 0.5rem;
+    min-width: 241px;
+    font-size: 16px;
+
+    &:focus {
+      border: 1px solid #7952b3;
+      box-shadow: 0 0 0 3px rgb(121 82 179 / 25%);
+    }
+
+    &:focus-visible {
+      outline: none;
+    }
+
+    &:disabled {
+      background-color: rgb(233, 236, 239);
+    }
+  }
+
+  label {
+    position: absolute;
+    right: 10px;
+    top: 20%;
+    color: gray;
+    border: 1px solid rgb(206, 212, 218);
+    padding: 2px 5px;
+    border-radius: 2px;
+    font-size: 14px;
+  }
+}
+
+.table-container {
+  overflow: auto;
+  margin-top: 1rem;
+  position: relative;
+
+  .users-table {
+    width: 100%;
+    min-width: 786px;
+    border-collapse: collapse;
+    border-spacing: 0;
+
+    th,
+    td {
+      padding: 8px;
+      text-align: left;
+      border-bottom: 1px solid rgb(222, 226, 230);
+    }
+
+
+    th {
+      font-weight: 700;
+      border-bottom: 1px solid;
+    }
+
+    tr:hover {
+      background-color: #f1f1f1;
+    }
+  }
+}
+
+.pagination {
+  margin-top: 1rem;
+
+
+  .page-size {
+    height: 23px;
+    border: 1px solid rgb(206, 212, 218);
+    width: 50px;
+    margin-left: 1rem;
+    margin-right: 5px;
+
+    &:focus {
+      outline: none;
+    }
+  }
+
+  .page-button {
+    cursor: pointer;
+
+    &:hover {
+      color: gray;
+    }
+  }
+
+  .disabled {
+    cursor: not-allowed;
+  }
+
+}
+
+.loading-div {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  left: 0;
+  top: 0;
+  background: rgba(0.1, 0.1, 0.1, 0.1);
+
+  .loading-image {
+    height: 40px;
+    width: 40px;
+  }
+}
